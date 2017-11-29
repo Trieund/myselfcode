@@ -17,13 +17,13 @@ public class ZenMondaiApp {
 //		kk.kyukyuNiJigenHairetsuNyuryoku();
 //		kk.kyukyuNiJigenhairetsuSutsuryoku();
 
-		SeisekiHyouka sh=new SeisekiHyouka();
-		sh.nyuryokuSeisekiHyouji();
-		sh.shutsuryokuSeisekiHyouji();
-		sh.nyuryokuHyoukaTen();
-		sh.shutsuryokuHyoukaTen();
-		sh.shuriSeisekiHyouka();
-		sh.shutsuryokuHyouka();
+//		SeisekiHyouka sh=new SeisekiHyouka();
+//		sh.nyuryokuSeisekiHyouji();
+//		sh.shutsuryokuSeisekiHyouji();
+//		sh.nyuryokuHyoukaTen();
+//		sh.shutsuryokuHyoukaTen();
+//		sh.shuriSeisekiHyouka();
+//		sh.shutsuryokuHyouka();
 
 //		sh.test2();
 //		Mondai6 md=new Mondai6();
